@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Breaking-BAd-Characters/static/css/main.96089e39.chunk.css",
+    "main.js": "/Breaking-BAd-Characters/static/js/main.2331d1dd.chunk.js",
+    "main.js.map": "/Breaking-BAd-Characters/static/js/main.2331d1dd.chunk.js.map",
+    "runtime-main.js": "/Breaking-BAd-Characters/static/js/runtime-main.0e6c554d.js",
+    "runtime-main.js.map": "/Breaking-BAd-Characters/static/js/runtime-main.0e6c554d.js.map",
+    "static/js/2.9f955005.chunk.js": "/Breaking-BAd-Characters/static/js/2.9f955005.chunk.js",
+    "static/js/2.9f955005.chunk.js.map": "/Breaking-BAd-Characters/static/js/2.9f955005.chunk.js.map",
+    "index.html": "/Breaking-BAd-Characters/index.html",
+    "static/css/main.96089e39.chunk.css.map": "/Breaking-BAd-Characters/static/css/main.96089e39.chunk.css.map",
+    "static/js/2.9f955005.chunk.js.LICENSE.txt": "/Breaking-BAd-Characters/static/js/2.9f955005.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Breaking-BAd-Characters/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/Breaking-BAd-Characters/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/Breaking-BAd-Characters/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6c554d.js",
+    "static/js/2.9f955005.chunk.js",
+    "static/css/main.96089e39.chunk.css",
+    "static/js/main.2331d1dd.chunk.js"
+  ]
+}
